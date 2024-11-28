@@ -1,0 +1,3 @@
+## "Predictive Analytics for Car Purchase Decision: A Logistic Regression Approach"
+**Introduction:**
+The car manufacturing industry is often faced with the challenge of identifying potential buyers to enhance sales strategies. This project tackles a classification problem where the target variable (Y) indicates whether a customer purchases a car (1) or not (0). Using age and salary as predictor variables, a logistic regression model is developed to make efficient purchase predictions. The sigmoid function forms the backbone of this model, translating the input features into probabilities that determine the likelihood of purchase. This project demonstrates the practical application of predictive analytics in optimizing marketing and customer acquisition efforts.
